@@ -1,0 +1,18 @@
+﻿  L191072,l191044_Othello with MiniMax.cpp
+D:\Semesters\Semsester 6\AI\AI Assignment 2 (Othello)\Othello\Othello\L191072,l191044_Othello with MiniMax.cpp(821,31): warning C4018: '<': signed/unsigned mismatch
+D:\Semesters\Semsester 6\AI\AI Assignment 2 (Othello)\Othello\Othello\L191072,l191044_Othello with MiniMax.cpp(827,88): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Semesters\Semsester 6\AI\AI Assignment 2 (Othello)\Othello\Othello\L191072,l191044_Othello with MiniMax.cpp(827,65): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Semesters\Semsester 6\AI\AI Assignment 2 (Othello)\Othello\Othello\L191072,l191044_Othello with MiniMax.cpp(831,46): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Semesters\Semsester 6\AI\AI Assignment 2 (Othello)\Othello\Othello\L191072,l191044_Othello with MiniMax.cpp(832,49): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Semesters\Semsester 6\AI\AI Assignment 2 (Othello)\Othello\Othello\L191072,l191044_Othello with MiniMax.cpp(837,31): warning C4018: '<': signed/unsigned mismatch
+D:\Semesters\Semsester 6\AI\AI Assignment 2 (Othello)\Othello\Othello\L191072,l191044_Othello with MiniMax.cpp(843,90): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Semesters\Semsester 6\AI\AI Assignment 2 (Othello)\Othello\Othello\L191072,l191044_Othello with MiniMax.cpp(843,66): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Semesters\Semsester 6\AI\AI Assignment 2 (Othello)\Othello\Othello\L191072,l191044_Othello with MiniMax.cpp(847,47): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Semesters\Semsester 6\AI\AI Assignment 2 (Othello)\Othello\Othello\L191072,l191044_Othello with MiniMax.cpp(848,50): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Semesters\Semsester 6\AI\AI Assignment 2 (Othello)\Othello\Othello\L191072,l191044_Othello with MiniMax.cpp(863,31): warning C4018: '<': signed/unsigned mismatch
+D:\Semesters\Semsester 6\AI\AI Assignment 2 (Othello)\Othello\Othello\L191072,l191044_Othello with MiniMax.cpp(869,88): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Semesters\Semsester 6\AI\AI Assignment 2 (Othello)\Othello\Othello\L191072,l191044_Othello with MiniMax.cpp(869,65): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Semesters\Semsester 6\AI\AI Assignment 2 (Othello)\Othello\Othello\L191072,l191044_Othello with MiniMax.cpp(877,31): warning C4018: '<': signed/unsigned mismatch
+D:\Semesters\Semsester 6\AI\AI Assignment 2 (Othello)\Othello\Othello\L191072,l191044_Othello with MiniMax.cpp(883,90): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Semesters\Semsester 6\AI\AI Assignment 2 (Othello)\Othello\Othello\L191072,l191044_Othello with MiniMax.cpp(883,66): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Othello.vcxproj -> D:\Semesters\Semsester 6\AI\AI Assignment 2 (Othello)\Othello\Debug\Othello.exe
